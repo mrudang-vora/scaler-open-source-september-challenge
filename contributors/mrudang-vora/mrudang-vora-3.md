@@ -1,0 +1,2 @@
+ - This is the file created for challenge 8 to learn git rebase and squash concepts.
+ - We would need to modify this file for challenge 9
